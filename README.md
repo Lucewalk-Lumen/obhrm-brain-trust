@@ -42,7 +42,7 @@ Three interaction behaviors built into the lead:
 
 | Agent | Role |
 |---|---|
-| `obhrm-brain-trust-lead` | Orchestrator — concept identification, bridge routing, final assembly (程亦楠) |
+| `obhrm-brain-trust-lead` | Orchestrator — concept identification, bridge routing, final assembly |
 | `obhrm-theory` | Theory library queries — 145 theories with literature trails |
 | `obhrm-scale` | Scale library queries — 601 scales with provenance labels |
 | `obhrm-ranalysis` | R methods library — 108 methods for analysis guidance |
