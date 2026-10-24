@@ -5,7 +5,7 @@
 > OBHRM multi-agent knowledge team linking a 12-chapter textbook with 145 theories, 601 scales and 108 R methods: a lead orchestrator routes each concept query to three specialist agents and assembles one complete four-library answer.
 
 
-Part of the [WorkBuddy Experts](https://github.com/Lucewalk/WorkBuddy-Experts) collection — expert teams, agents and skills for the WorkBuddy AI assistant platform.
+Part of the [WorkBuddy Experts](https://github.com/Lucewalk/lucewalk-experts) collection — expert teams, agents and skills for the WorkBuddy AI assistant platform.
 
 
 ## What it does
