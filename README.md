@@ -4,7 +4,7 @@
 
 > An OBHRM knowledge team linking a **12-chapter organization-behavior textbook** with **145 theories, 601 scales and 108 R methods**: a lead orchestrator routes each concept query to three specialist agents and assembles one complete four-library answer.
 
-Part of the [Lucewalk Lumen](https://github.com/Lucewalk/lucewalk-lumen) collection — expert teams, agents and skills for the WorkBuddy AI assistant platform.
+Part of the [Lucewalk Lumen](https://github.com/Lucewalk-Lumen/about-me) collection — expert teams, agents and skills for the WorkBuddy AI assistant platform.
 
 ## What it does
 
@@ -53,7 +53,7 @@ Three interaction behaviors built into the lead:
 
 ## Install
 
-1. Download the package zip from [Releases](https://github.com/Lucewalk/obhrm-brain-trust/releases) or clone this repo;
+1. Download the package zip from [Releases](https://github.com/Lucewalk-Lumen/obhrm-brain-trust/releases) or clone this repo;
 2. Unzip keeping the `.codebuddy-plugin/` manifest structure intact;
 3. Import/register in WorkBuddy (custom connector → trust & enable).
 
@@ -77,11 +77,11 @@ MIT — see [LICENSE](LICENSE).
 
 - 版本:v1.0.3 · 类型:team
 - 版本真源:包内 `.codebuddy-plugin/plugin.json` 的 `version` 字段
-- 所属合集:[Lucewalk Experts 门户](https://github.com/Lucewalk/lucewalk-lumen)(全部产品目录与品牌说明)
+- 所属合集:[Lucewalk Experts 门户](https://github.com/Lucewalk-Lumen/about-me)(全部产品目录与品牌说明)
 
 ## 安装
 
-1. 从本仓库 [Releases](https://github.com/Lucewalk/obhrm-brain-trust/releases) 页下载该包 zip(或直接克隆仓库);
+1. 从本仓库 [Releases](https://github.com/Lucewalk-Lumen/obhrm-brain-trust/releases) 页下载该包 zip(或直接克隆仓库);
 2. 解压后**保持内部清单结构不变**(`.codebuddy-plugin/` 目录);
 3. 在 WorkBuddy 中导入/注册(自定义连接器入口 → 信任并启用)。
 
